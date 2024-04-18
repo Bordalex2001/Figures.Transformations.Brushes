@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures.Transformations.Brushes", "Figures.Transformations.Brushes\Figures.Transformations.Brushes.csproj", "{196C26E5-FB5F-4C53-9978-BDE83726AAFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196C26E5-FB5F-4C53-9978-BDE83726AAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196C26E5-FB5F-4C53-9978-BDE83726AAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196C26E5-FB5F-4C53-9978-BDE83726AAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196C26E5-FB5F-4C53-9978-BDE83726AAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {550DF1D7-7E03-4545-9691-DEE1042C0909}
+	EndGlobalSection
+EndGlobal
